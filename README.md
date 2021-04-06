@@ -1,0 +1,2 @@
+# krozek
+repo za krozek
