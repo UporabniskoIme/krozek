@@ -86,5 +86,5 @@ def odsifriraj(sifra, beseda):
     return prava_beseda
 
 print(odsifriraj(nasa_sifra, zasifriraj(nasa_sifra, beseda)) == beseda)
-
+print()
 # 7. naloga preveri ali je slovar sifra, vsak znak se preslika v natancno enega, vsi znaki se preslikajo
