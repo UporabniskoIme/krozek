@@ -26,7 +26,7 @@ dolzina_abeceda = len(abeceda)
 def zasifriraj(beseda, kljuc):
     ret = ''
     for znak in beseda.lower():
-        ret +=abeceda[(crke[znak] + kljuc) % dolzina_abecede] #chr((a + (ord(znak) - a + kljuc)%26))
+        ret +=abeceda[(crke[znak] + kljuc) % dolzina_abecede]
     return ret
 
 def odsifriraj(beseda, kljuc):
