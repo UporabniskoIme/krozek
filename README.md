@@ -1,4 +1,4 @@
 # krozek
 repo za krozek
-datum
+datum: april 2021
 podpis
